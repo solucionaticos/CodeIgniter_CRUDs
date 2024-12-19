@@ -1,0 +1,27 @@
+tbody tr td {
+	white-space: nowrap;
+}
+.tdSeleccion {
+	width:35px !important;
+}
+.tdBotones {
+	width:35px !important;
+}
+.tdSelection {
+	width:35px !important;
+}
+.tdButtons {
+	width:35px !important;
+}
+#btnCommands {
+	margin-bottom: 10px;
+}
+.box-title a {
+	text-decoration: underline;
+}
+.tdCommands {
+	display: inline-flex;	
+}
+.breadcrumb-name a {
+	color: #00a65a !important;
+}

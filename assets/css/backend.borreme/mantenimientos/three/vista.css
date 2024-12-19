@@ -1,0 +1,9 @@
+body {
+	margin: 0px;
+}
+#titulo {
+    font-family: Verdana, Geneva, sans-serif;
+    position: absolute;
+    background-color: rgba(44, 44, 44, 0.3);
+    color: white;	
+}

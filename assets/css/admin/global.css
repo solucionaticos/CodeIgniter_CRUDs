@@ -1,0 +1,9 @@
+.error {
+	color:red;
+}
+.box-title a {
+	text-decoration: underline;
+}
+.breadcrumb-name a {
+	color: #00a65a !important;
+}

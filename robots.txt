@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /importar_datos/
+Disallow: /system/

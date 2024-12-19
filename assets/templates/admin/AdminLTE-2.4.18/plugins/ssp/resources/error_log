@@ -1,0 +1,5 @@
+[12-Apr-2018 16:36:57 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php70) is not within the allowed path(s): (/home:/tmp:/usr:/opt) in Unknown on line 0
+[12-Apr-2018 16:38:29 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php70) is not within the allowed path(s): (/home:/tmp:/usr:/opt) in Unknown on line 0
+[12-Apr-2018 16:39:35 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php70) is not within the allowed path(s): (/home:/tmp:/usr:/opt) in Unknown on line 0
+[12-Apr-2018 16:41:37 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php70) is not within the allowed path(s): (/home:/tmp:/usr:/opt) in Unknown on line 0
+[12-Apr-2018 16:42:06 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php70) is not within the allowed path(s): (/home:/tmp:/usr:/opt) in Unknown on line 0
